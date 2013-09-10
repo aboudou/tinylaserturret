@@ -4,7 +4,7 @@ TinyLaserTurret
 TinyLaserTurret is a simple ATtiny85 based laser turret, with Nunchuck control.
 
 * [Project's page](http://goddess-gate.com/projects/en/arduino/tinylaserturret)
-* [TinyLaserTurret in action](http://www.youtube.com/XXXXXX)
+* [TinyLaserTurret in action](http://www.youtube.com/watch?v=AJifI_-Nt7g)
 
 Requirements
 ------------
