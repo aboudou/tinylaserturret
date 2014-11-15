@@ -27,7 +27,7 @@ The full bill of materials is available in the file “docs/bom.xlsx”
 
 Optionnaly, you'll need a 3D printer to build the turret.
 
-You can find all the schematics into “doc/ArduTemperatureMonitor.fzz”, to open with [Fritzing](http://fritzing.org/).
+You can find all the schematics and PCB into “doc/TinyLaserTurret.fzz”, to open with [Fritzing](http://fritzing.org/).
 
 How to use TinyLaserTurret
 --------------------------
@@ -70,6 +70,8 @@ I provide 3D parts to build the turret. These 3D parts were sized for the specif
 
 “.skp” files were made with [Trimble Sketchup Make 2013](http://www.sketchup.com/download/all)
 
+3D parts are not made for the PCB assembly. I plan to make a specific version later.
+
 ![3D assembly](imgs/3d_assembly.png "3D assembly")
 
 Notes
@@ -86,3 +88,5 @@ The live assembly
 -----------------
 
 ![Live assembly](imgs/live_assembly.jpg "Live assembly")
+
+![PCB assembly](imgs/tinylaserturret_pcb.jpg "PCB assembly")
